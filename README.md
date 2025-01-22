@@ -38,9 +38,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 3.**Ejecuta la aplicación. Puedes hacerlo con Maven:**
 mvn spring-boot:run
 
-4.**Accede a la API.** Una vez que la aplicación esté funcionando, la API estará disponible en:
-
-http://localhost:8080
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
